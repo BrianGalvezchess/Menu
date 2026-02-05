@@ -7,6 +7,7 @@ public class Menu {
         final double PI = 3.1416;
 
         Scanner scanner = new Scanner(System.in);
+        System.out.println("Bienvenido a tu menu de opciones");
         String opcion = ""; 
 
         do {
