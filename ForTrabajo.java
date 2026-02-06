@@ -4,6 +4,7 @@ public class ForTrabajo{
         int limite; //hasta donde llegar
         int salto; //de cuanto en cuanto
         Scanner scanner = new Scanner(System.in);
+        System.out.println("Bienvenido al ciclo For");
 
         System.out.println("¿Hasta que numero quieres contar?: ");
         limite = scanner.nextInt();
